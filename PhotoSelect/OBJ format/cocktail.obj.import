@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ctn7x7d68dmt6"
+path="res://.godot/imported/cocktail.obj-fab478ca434a187c71941e7b15a4e0b5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cocktail.obj-fab478ca434a187c71941e7b15a4e0b5.mesh"]
+
+source_file="res://OBJ format/cocktail.obj"
+dest_files=["res://.godot/imported/cocktail.obj-fab478ca434a187c71941e7b15a4e0b5.mesh", "res://.godot/imported/cocktail.obj-fab478ca434a187c71941e7b15a4e0b5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

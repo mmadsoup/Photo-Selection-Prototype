@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dl1kgok7734ya"
+path="res://.godot/imported/turkey.obj-8650c2e75b78ce864956723c3168b95f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/turkey.obj-8650c2e75b78ce864956723c3168b95f.mesh"]
+
+source_file="res://OBJ format/turkey.obj"
+dest_files=["res://.godot/imported/turkey.obj-8650c2e75b78ce864956723c3168b95f.mesh", "res://.godot/imported/turkey.obj-8650c2e75b78ce864956723c3168b95f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

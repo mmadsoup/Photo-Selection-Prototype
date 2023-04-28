@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fbjvtlelcrlg"
+path="res://.godot/imported/fries.obj-b05ecc5852c268bb4779ba2773d03f15.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fries.obj-b05ecc5852c268bb4779ba2773d03f15.mesh"]
+
+source_file="res://OBJ format/fries.obj"
+dest_files=["res://.godot/imported/fries.obj-b05ecc5852c268bb4779ba2773d03f15.mesh", "res://.godot/imported/fries.obj-b05ecc5852c268bb4779ba2773d03f15.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

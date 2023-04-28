@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://8nlqq2bdgck0"
+path="res://.godot/imported/onionHalf.obj-f9e8feb4d2dda8e8544b53dded9f2eb2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/onionHalf.obj-f9e8feb4d2dda8e8544b53dded9f2eb2.mesh"]
+
+source_file="res://OBJ format/onionHalf.obj"
+dest_files=["res://.godot/imported/onionHalf.obj-f9e8feb4d2dda8e8544b53dded9f2eb2.mesh", "res://.godot/imported/onionHalf.obj-f9e8feb4d2dda8e8544b53dded9f2eb2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

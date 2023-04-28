@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b0v4ykckan3cv"
+path="res://.godot/imported/canSmall.obj-4e7cadb2586a896504689dc89f514123.mesh"
+
+[deps]
+
+files=["res://.godot/imported/canSmall.obj-4e7cadb2586a896504689dc89f514123.mesh"]
+
+source_file="res://OBJ format/canSmall.obj"
+dest_files=["res://.godot/imported/canSmall.obj-4e7cadb2586a896504689dc89f514123.mesh", "res://.godot/imported/canSmall.obj-4e7cadb2586a896504689dc89f514123.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

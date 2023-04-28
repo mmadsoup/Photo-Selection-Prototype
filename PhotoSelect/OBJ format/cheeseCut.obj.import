@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cpob5jgb5hsje"
+path="res://.godot/imported/cheeseCut.obj-95f71447099903f7c860f4a7b1cc493e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cheeseCut.obj-95f71447099903f7c860f4a7b1cc493e.mesh"]
+
+source_file="res://OBJ format/cheeseCut.obj"
+dest_files=["res://.godot/imported/cheeseCut.obj-95f71447099903f7c860f4a7b1cc493e.mesh", "res://.godot/imported/cheeseCut.obj-95f71447099903f7c860f4a7b1cc493e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

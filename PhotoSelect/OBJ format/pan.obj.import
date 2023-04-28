@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c22vwocppid6t"
+path="res://.godot/imported/pan.obj-898104e04234d67b696d57e8f3f3651c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pan.obj-898104e04234d67b696d57e8f3f3651c.mesh"]
+
+source_file="res://OBJ format/pan.obj"
+dest_files=["res://.godot/imported/pan.obj-898104e04234d67b696d57e8f3f3651c.mesh", "res://.godot/imported/pan.obj-898104e04234d67b696d57e8f3f3651c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

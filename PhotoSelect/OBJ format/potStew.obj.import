@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://wa5l87l5scmi"
+path="res://.godot/imported/potStew.obj-1ee8e05d7bf3a1152bd0e5667aa80951.mesh"
+
+[deps]
+
+files=["res://.godot/imported/potStew.obj-1ee8e05d7bf3a1152bd0e5667aa80951.mesh"]
+
+source_file="res://OBJ format/potStew.obj"
+dest_files=["res://.godot/imported/potStew.obj-1ee8e05d7bf3a1152bd0e5667aa80951.mesh", "res://.godot/imported/potStew.obj-1ee8e05d7bf3a1152bd0e5667aa80951.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

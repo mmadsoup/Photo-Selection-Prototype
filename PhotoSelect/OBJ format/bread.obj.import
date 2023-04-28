@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dmb5wyyfd05wi"
+path="res://.godot/imported/bread.obj-b4a7fadb7994c530560d00bec1fe885f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bread.obj-b4a7fadb7994c530560d00bec1fe885f.mesh"]
+
+source_file="res://OBJ format/bread.obj"
+dest_files=["res://.godot/imported/bread.obj-b4a7fadb7994c530560d00bec1fe885f.mesh", "res://.godot/imported/bread.obj-b4a7fadb7994c530560d00bec1fe885f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

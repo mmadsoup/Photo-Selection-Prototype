@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dahl4wxgxyue8"
+path="res://.godot/imported/pepper.obj-991f5661c2549b6a6bbd06279575cabe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pepper.obj-991f5661c2549b6a6bbd06279575cabe.mesh"]
+
+source_file="res://OBJ format/pepper.obj"
+dest_files=["res://.godot/imported/pepper.obj-991f5661c2549b6a6bbd06279575cabe.mesh", "res://.godot/imported/pepper.obj-991f5661c2549b6a6bbd06279575cabe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

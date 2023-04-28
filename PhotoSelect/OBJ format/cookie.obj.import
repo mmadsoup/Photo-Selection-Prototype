@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://indcfxo1mqlc"
+path="res://.godot/imported/cookie.obj-c7d6f2e5ff110a08cb86cc7e5ae66764.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cookie.obj-c7d6f2e5ff110a08cb86cc7e5ae66764.mesh"]
+
+source_file="res://OBJ format/cookie.obj"
+dest_files=["res://.godot/imported/cookie.obj-c7d6f2e5ff110a08cb86cc7e5ae66764.mesh", "res://.godot/imported/cookie.obj-c7d6f2e5ff110a08cb86cc7e5ae66764.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

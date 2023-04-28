@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clyn42416jsxo"
+path="res://.godot/imported/mincemeatPie.obj-9bfb4358b0c2977e6a0dca10b6787e27.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mincemeatPie.obj-9bfb4358b0c2977e6a0dca10b6787e27.mesh"]
+
+source_file="res://OBJ format/mincemeatPie.obj"
+dest_files=["res://.godot/imported/mincemeatPie.obj-9bfb4358b0c2977e6a0dca10b6787e27.mesh", "res://.godot/imported/mincemeatPie.obj-9bfb4358b0c2977e6a0dca10b6787e27.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://44jfbqvde1r4"
+path="res://.godot/imported/cupTea.obj-dd45659e4d413ecdd25ff435cddf588a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cupTea.obj-dd45659e4d413ecdd25ff435cddf588a.mesh"]
+
+source_file="res://OBJ format/cupTea.obj"
+dest_files=["res://.godot/imported/cupTea.obj-dd45659e4d413ecdd25ff435cddf588a.mesh", "res://.godot/imported/cupTea.obj-dd45659e4d413ecdd25ff435cddf588a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

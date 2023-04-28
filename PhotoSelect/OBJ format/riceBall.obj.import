@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmw414bxaij2l"
+path="res://.godot/imported/riceBall.obj-6fea473cab79707e7dace33b554046de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/riceBall.obj-6fea473cab79707e7dace33b554046de.mesh"]
+
+source_file="res://OBJ format/riceBall.obj"
+dest_files=["res://.godot/imported/riceBall.obj-6fea473cab79707e7dace33b554046de.mesh", "res://.godot/imported/riceBall.obj-6fea473cab79707e7dace33b554046de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

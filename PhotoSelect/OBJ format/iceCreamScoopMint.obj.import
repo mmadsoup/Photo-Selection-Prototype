@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cfpsu78v1s3cr"
+path="res://.godot/imported/iceCreamScoopMint.obj-5162d92c5cd191c16a22d7741d0f4804.mesh"
+
+[deps]
+
+files=["res://.godot/imported/iceCreamScoopMint.obj-5162d92c5cd191c16a22d7741d0f4804.mesh"]
+
+source_file="res://OBJ format/iceCreamScoopMint.obj"
+dest_files=["res://.godot/imported/iceCreamScoopMint.obj-5162d92c5cd191c16a22d7741d0f4804.mesh", "res://.godot/imported/iceCreamScoopMint.obj-5162d92c5cd191c16a22d7741d0f4804.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dtd7oqobwvpb3"
+path="res://.godot/imported/taco.obj-cb9cccaf686691cfd53f18eb1e4b3b2f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/taco.obj-cb9cccaf686691cfd53f18eb1e4b3b2f.mesh"]
+
+source_file="res://OBJ format/taco.obj"
+dest_files=["res://.godot/imported/taco.obj-cb9cccaf686691cfd53f18eb1e4b3b2f.mesh", "res://.godot/imported/taco.obj-cb9cccaf686691cfd53f18eb1e4b3b2f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

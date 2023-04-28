@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cm02fdhg6as3f"
+path="res://.godot/imported/leek.obj-81b8705dc9f63142c30714befe305ebe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/leek.obj-81b8705dc9f63142c30714befe305ebe.mesh"]
+
+source_file="res://OBJ format/leek.obj"
+dest_files=["res://.godot/imported/leek.obj-81b8705dc9f63142c30714befe305ebe.mesh", "res://.godot/imported/leek.obj-81b8705dc9f63142c30714befe305ebe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

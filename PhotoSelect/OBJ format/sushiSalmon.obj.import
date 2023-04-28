@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cdqawecqtbytc"
+path="res://.godot/imported/sushiSalmon.obj-c4f919997da2da342f2269724c365ca3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sushiSalmon.obj-c4f919997da2da342f2269724c365ca3.mesh"]
+
+source_file="res://OBJ format/sushiSalmon.obj"
+dest_files=["res://.godot/imported/sushiSalmon.obj-c4f919997da2da342f2269724c365ca3.mesh", "res://.godot/imported/sushiSalmon.obj-c4f919997da2da342f2269724c365ca3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

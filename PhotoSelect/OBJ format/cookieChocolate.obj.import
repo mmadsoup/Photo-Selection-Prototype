@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d0kt684tsmd51"
+path="res://.godot/imported/cookieChocolate.obj-69947a9bc75be9e2a34eba0df0877bbd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cookieChocolate.obj-69947a9bc75be9e2a34eba0df0877bbd.mesh"]
+
+source_file="res://OBJ format/cookieChocolate.obj"
+dest_files=["res://.godot/imported/cookieChocolate.obj-69947a9bc75be9e2a34eba0df0877bbd.mesh", "res://.godot/imported/cookieChocolate.obj-69947a9bc75be9e2a34eba0df0877bbd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

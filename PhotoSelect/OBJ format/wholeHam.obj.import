@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgis08n8slxx1"
+path="res://.godot/imported/wholeHam.obj-d53f755d5d486bf515a6bc885f5f46e2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wholeHam.obj-d53f755d5d486bf515a6bc885f5f46e2.mesh"]
+
+source_file="res://OBJ format/wholeHam.obj"
+dest_files=["res://.godot/imported/wholeHam.obj-d53f755d5d486bf515a6bc885f5f46e2.mesh", "res://.godot/imported/wholeHam.obj-d53f755d5d486bf515a6bc885f5f46e2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

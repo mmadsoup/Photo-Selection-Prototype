@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://yfsy7ai5q50y"
+path="res://.godot/imported/sodaCanCrushed.obj-9b9c8fee1afbbc695c5be3377a57754f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sodaCanCrushed.obj-9b9c8fee1afbbc695c5be3377a57754f.mesh"]
+
+source_file="res://OBJ format/sodaCanCrushed.obj"
+dest_files=["res://.godot/imported/sodaCanCrushed.obj-9b9c8fee1afbbc695c5be3377a57754f.mesh", "res://.godot/imported/sodaCanCrushed.obj-9b9c8fee1afbbc695c5be3377a57754f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

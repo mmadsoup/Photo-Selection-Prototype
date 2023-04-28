@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwm66f7bosfd7"
+path="res://.godot/imported/eggHalf.obj-a6faef3a9d1c13206aaaf781cb50cfaa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/eggHalf.obj-a6faef3a9d1c13206aaaf781cb50cfaa.mesh"]
+
+source_file="res://OBJ format/eggHalf.obj"
+dest_files=["res://.godot/imported/eggHalf.obj-a6faef3a9d1c13206aaaf781cb50cfaa.mesh", "res://.godot/imported/eggHalf.obj-a6faef3a9d1c13206aaaf781cb50cfaa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

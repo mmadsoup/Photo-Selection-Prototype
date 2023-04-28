@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b16ogjn4ejnxq"
+path="res://.godot/imported/frappe.obj-33f7c4fddc2df7d55a5bff5ba7a7fa8b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/frappe.obj-33f7c4fddc2df7d55a5bff5ba7a7fa8b.mesh"]
+
+source_file="res://OBJ format/frappe.obj"
+dest_files=["res://.godot/imported/frappe.obj-33f7c4fddc2df7d55a5bff5ba7a7fa8b.mesh", "res://.godot/imported/frappe.obj-33f7c4fddc2df7d55a5bff5ba7a7fa8b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

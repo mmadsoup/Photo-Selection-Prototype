@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccqpakjs6ufe0"
+path="res://.godot/imported/eggCup.obj-099899f1537efdddf638b4fe4319761f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/eggCup.obj-099899f1537efdddf638b4fe4319761f.mesh"]
+
+source_file="res://OBJ format/eggCup.obj"
+dest_files=["res://.godot/imported/eggCup.obj-099899f1537efdddf638b4fe4319761f.mesh", "res://.godot/imported/eggCup.obj-099899f1537efdddf638b4fe4319761f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

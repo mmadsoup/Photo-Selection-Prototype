@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2m38mu78i688"
+path="res://.godot/imported/loafRound.obj-296ab3dac7d41728380b5fa08f059699.mesh"
+
+[deps]
+
+files=["res://.godot/imported/loafRound.obj-296ab3dac7d41728380b5fa08f059699.mesh"]
+
+source_file="res://OBJ format/loafRound.obj"
+dest_files=["res://.godot/imported/loafRound.obj-296ab3dac7d41728380b5fa08f059699.mesh", "res://.godot/imported/loafRound.obj-296ab3dac7d41728380b5fa08f059699.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

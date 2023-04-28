@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bvn74gd7ksfn"
+path="res://.godot/imported/bowlCereal.obj-d5b04a20b8d7af8c2b00f0aeda7f6083.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bowlCereal.obj-d5b04a20b8d7af8c2b00f0aeda7f6083.mesh"]
+
+source_file="res://OBJ format/bowlCereal.obj"
+dest_files=["res://.godot/imported/bowlCereal.obj-d5b04a20b8d7af8c2b00f0aeda7f6083.mesh", "res://.godot/imported/bowlCereal.obj-d5b04a20b8d7af8c2b00f0aeda7f6083.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

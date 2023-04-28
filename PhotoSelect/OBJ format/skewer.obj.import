@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://lvg5dgppa7xl"
+path="res://.godot/imported/skewer.obj-cc4735a350c2ffe6d28ae3b792612ade.mesh"
+
+[deps]
+
+files=["res://.godot/imported/skewer.obj-cc4735a350c2ffe6d28ae3b792612ade.mesh"]
+
+source_file="res://OBJ format/skewer.obj"
+dest_files=["res://.godot/imported/skewer.obj-cc4735a350c2ffe6d28ae3b792612ade.mesh", "res://.godot/imported/skewer.obj-cc4735a350c2ffe6d28ae3b792612ade.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

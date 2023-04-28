@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ce4kgneph4tb0"
+path="res://.godot/imported/canOpen.obj-30601d6ac931b06a281beee6d982e7cd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/canOpen.obj-30601d6ac931b06a281beee6d982e7cd.mesh"]
+
+source_file="res://OBJ format/canOpen.obj"
+dest_files=["res://.godot/imported/canOpen.obj-30601d6ac931b06a281beee6d982e7cd.mesh", "res://.godot/imported/canOpen.obj-30601d6ac931b06a281beee6d982e7cd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxw1aco4ubdv2"
+path="res://.godot/imported/cakeSlicer.obj-35dd0ce7e543891f60a1897804715dc0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cakeSlicer.obj-35dd0ce7e543891f60a1897804715dc0.mesh"]
+
+source_file="res://OBJ format/cakeSlicer.obj"
+dest_files=["res://.godot/imported/cakeSlicer.obj-35dd0ce7e543891f60a1897804715dc0.mesh", "res://.godot/imported/cakeSlicer.obj-35dd0ce7e543891f60a1897804715dc0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

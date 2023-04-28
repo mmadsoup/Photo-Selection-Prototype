@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://0eq4xmcykn8n"
+path="res://.godot/imported/cornDog.obj-75f618acdfd8d2531d6f8c6eb5342a6f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cornDog.obj-75f618acdfd8d2531d6f8c6eb5342a6f.mesh"]
+
+source_file="res://OBJ format/cornDog.obj"
+dest_files=["res://.godot/imported/cornDog.obj-75f618acdfd8d2531d6f8c6eb5342a6f.mesh", "res://.godot/imported/cornDog.obj-75f618acdfd8d2531d6f8c6eb5342a6f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

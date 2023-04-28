@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://deu72d7mk53v6"
+path="res://.godot/imported/cuttingBoardRound.obj-f37ccf366af5b5da01f43f3dcb570b26.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cuttingBoardRound.obj-f37ccf366af5b5da01f43f3dcb570b26.mesh"]
+
+source_file="res://OBJ format/cuttingBoardRound.obj"
+dest_files=["res://.godot/imported/cuttingBoardRound.obj-f37ccf366af5b5da01f43f3dcb570b26.mesh", "res://.godot/imported/cuttingBoardRound.obj-f37ccf366af5b5da01f43f3dcb570b26.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

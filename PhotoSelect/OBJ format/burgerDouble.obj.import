@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvi1sw5u5xnji"
+path="res://.godot/imported/burgerDouble.obj-54b97c57e9771808ac606d715ab97ba1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/burgerDouble.obj-54b97c57e9771808ac606d715ab97ba1.mesh"]
+
+source_file="res://OBJ format/burgerDouble.obj"
+dest_files=["res://.godot/imported/burgerDouble.obj-54b97c57e9771808ac606d715ab97ba1.mesh", "res://.godot/imported/burgerDouble.obj-54b97c57e9771808ac606d715ab97ba1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

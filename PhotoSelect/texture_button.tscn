@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://diqgtkxcym7wi"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_5a4ah"]
+load_path = "res://.godot/imported/0.png-8856e0f6ebbd47f0682fe1d8ec43a949.ctex"
+
+[node name="TextureButton" type="TextureButton"]
+texture_normal = SubResource("CompressedTexture2D_5a4ah")

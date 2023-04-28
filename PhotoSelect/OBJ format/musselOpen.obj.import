@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bc05kqo1mrrs7"
+path="res://.godot/imported/musselOpen.obj-851b672795688ef243cda82cadf70fd2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/musselOpen.obj-851b672795688ef243cda82cadf70fd2.mesh"]
+
+source_file="res://OBJ format/musselOpen.obj"
+dest_files=["res://.godot/imported/musselOpen.obj-851b672795688ef243cda82cadf70fd2.mesh", "res://.godot/imported/musselOpen.obj-851b672795688ef243cda82cadf70fd2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

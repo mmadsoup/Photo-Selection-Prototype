@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dswmnwfvyb0pp"
+path="res://.godot/imported/cuttingBoardJapanese.obj-ac0c41ed2836dc92a499356f9750bb00.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cuttingBoardJapanese.obj-ac0c41ed2836dc92a499356f9750bb00.mesh"]
+
+source_file="res://OBJ format/cuttingBoardJapanese.obj"
+dest_files=["res://.godot/imported/cuttingBoardJapanese.obj-ac0c41ed2836dc92a499356f9750bb00.mesh", "res://.godot/imported/cuttingBoardJapanese.obj-ac0c41ed2836dc92a499356f9750bb00.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

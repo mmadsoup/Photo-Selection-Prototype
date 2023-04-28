@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bthe5e7qhns8p"
+path="res://.godot/imported/muffin.obj-6613235a51a4591eb696f5f458cf9701.mesh"
+
+[deps]
+
+files=["res://.godot/imported/muffin.obj-6613235a51a4591eb696f5f458cf9701.mesh"]
+
+source_file="res://OBJ format/muffin.obj"
+dest_files=["res://.godot/imported/muffin.obj-6613235a51a4591eb696f5f458cf9701.mesh", "res://.godot/imported/muffin.obj-6613235a51a4591eb696f5f458cf9701.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
